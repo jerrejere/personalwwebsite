@@ -1,0 +1,26 @@
+h1{
+    color: blueviolet;
+    
+    font-style: italic;
+    background-color: black;
+    padding: 20px;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-size: x-large;
+
+}
+img{
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+    
+}
+h1:hover{
+    cursor: pointer;
+    color: aqua;
+}
